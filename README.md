@@ -1,9 +1,9 @@
 # Birthday-Application
 
-This android application keeps on switching the image on taping the screen playing the song in background.
+This android application keeps on switching the image on taping the screen at the same time song is being played in the  background.
 
 
-All you need to is :
+All you need to do is :
 
     copy all your images into res/drawable/ (Note: images should be in the pattern image1.jpg, image2.jpg, image3.jpg... or you can change the image name pattern in the )
     
